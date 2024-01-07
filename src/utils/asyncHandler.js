@@ -15,4 +15,4 @@ const asyncHandler = (requesthandler) => {
     }
 }
 
-export { asyncHandler };
+export { asyncHandler }; 
